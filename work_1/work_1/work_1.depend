@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1537325022 source:d:\c\work_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sequlist.h"
+
+1537322594 d:\c\work_1\sequlist.h
+	<stdio.h>
+	<stdlib.h>
+
+1537930490 source:c:\users\administrator\desktop\data structure\work_1\work_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sequlist.h"
+
+1537322596 c:\users\administrator\desktop\data structure\work_1\work_1\sequlist.h
+	<stdio.h>
+	<stdlib.h>
+
